@@ -4,7 +4,7 @@
     <div class="container">
         <div class="row align-items-start g-4 pb-4">
             <div class="col-md-4">
-                <div class="st-footer-brand">MyStore</div>
+                <div class="st-footer-brand">Carty Store</div>
                 <div class="st-footer-tagline">Quality products, smooth shopping.</div>
             </div>
             <div class="col-md-4">
